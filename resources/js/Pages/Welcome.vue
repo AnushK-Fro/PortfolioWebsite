@@ -154,7 +154,7 @@ import {Head} from "@inertiajs/vue3";
                 <h5 class="text-xl font-bold tracking-tight">Programming Languages: <span class="font-thin">Python, PHP</span></h5>
                 <h5 class="text-xl font-bold tracking-tight">Frameworks: <span class="font-thin">Laravel, Vue.js, TailwindCSS</span></h5>
                 <h5 class="text-xl font-bold tracking-tight">Interests: <span class="font-thin">Cybersecurity, Systems Administration, Programming, Cloud Computing, Virtualization</span></h5>
-                <h5 class="text-xl font-bold tracking-tight">Software: <span class="font-thin">Proxmox VE, Oracle VM VirtualBox, cPanel, Plesk, Visual Studio Code, Visual Studio, IntelliJ</span></h5>
+                <h5 class="text-xl font-bold tracking-tight">Software: <span class="font-thin">Proxmox , cPanel, Plesk, Visual Studio Code</span></h5>
                 <h5 class="text-xl font-bold tracking-tight">Operating Systems: <span class="font-thin">Linux (Debian + RHEL), Windows Server</span></h5>
                 <h5 class="text-xl font-bold tracking-tight">Cloud Platforms: <span class="font-thin">Amazon Web Services, Google Cloud Platform, Microsoft Azure, Oracle Cloud</span></h5>
             </section>
