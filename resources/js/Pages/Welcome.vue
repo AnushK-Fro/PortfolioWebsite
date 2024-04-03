@@ -146,8 +146,8 @@ import {Head} from "@inertiajs/vue3";
             <section id="socials" class="mt-10">
                 <h1 class="text-3xl font-bold md:text-5xl lg:text-4xl text-black mb-5">Socials</h1>
                 <h5 class="text-xl font-bold tracking-tight">Email: <a class="font-thin text-blue-500 hover:text-blue-700" href="email:contact@anush.me">contact@anush.me</a> <span class="font-thin">(email me!)</span></h5>
-                <h5 class="text-xl font-bold tracking-tight">LinkedIn: <a class="font-thin text-blue-500 hover:text-blue-700" href="https://linkedin.com/in/anushkoneru">https://linkedin.com/in/anushkoneru</a></h5>
-                <h5 class="text-xl font-bold tracking-tight">GitHub: <a class="font-thin text-blue-500 hover:text-blue-700" href="https://github.com/AnushK-Fro">https://github.com/AnushK-Fro</a></h5>
+                <h5 class="text-xl font-bold tracking-tight">LinkedIn: <a class="font-thin text-blue-500 hover:text-blue-700" href="https://linkedin.com/in/anushkoneru" target="_blank">https://linkedin.com/in/anushkoneru</a></h5>
+                <h5 class="text-xl font-bold tracking-tight">GitHub: <a class="font-thin text-blue-500 hover:text-blue-700" href="https://github.com/AnushK-Fro" target="_blank">https://github.com/AnushK-Fro</a></h5>
             </section>
             <section id="additional_skills" class="mt-10">
                 <h1 class="text-3xl font-bold md:text-5xl lg:text-4xl text-black mb-5">Additional Skills</h1>

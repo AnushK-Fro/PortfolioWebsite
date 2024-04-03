@@ -83,11 +83,6 @@ function readTime(wordCount) {
     return output;
 }
 
-function openPrivacyPolicy() {
-    window.open(route('legal.privacy'));
-}
-
-
 </script>
 <template>
     <Head>
@@ -148,7 +143,7 @@ function openPrivacyPolicy() {
                         <InputError :message="form.errors.token" class="mt-2" />
                         <VueTurnstile class="mt-4" :site-key="turnstile_sitekey" v-model="token"></VueTurnstile>
 
-                        <p class="mt-4">By clicking submit, you agree to my <a class="text-blue-500 hover:text-blue-600" href="#" @click="openPrivacyPolicy">privacy policy</a>.</p>
+                        <p class="mt-4">Please read my <a class="text-blue-500 hover:text-blue-600" href="/privacypolicy" target="_blank">privacy policy</a> before opting in for my emails.</p>
                     </div>
                 </template>
                 <template #footer>
