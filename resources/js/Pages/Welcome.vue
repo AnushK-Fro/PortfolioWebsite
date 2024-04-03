@@ -25,7 +25,7 @@ import {Head} from "@inertiajs/vue3";
                 administration.</p>
 
             <h1 class="mb-5 mt-10 text-3xl font-bold md:text-5xl lg:text-4xl text-black">Work Experience</h1>
-            <div class="grid grid-cols-3 gap-4 flex">
+            <div class="grid grid-cols-1 gap-4 sm:grid-cols-3">
                 <ProjectCard>
                     <template #name>
                         Advin Servers
@@ -52,7 +52,7 @@ import {Head} from "@inertiajs/vue3";
             </div>
             <h1 class="mb-5 mt-10 text-3xl font-bold md:text-5xl lg:text-4xl text-black">Featured Projects</h1>
 
-            <div class="grid grid-cols-3 gap-4">
+            <div class="grid grid-cols-1 gap-4 sm:grid-cols-3">
                 <ProjectCard>
                     <template #name>
                         Portfolio & Blog
