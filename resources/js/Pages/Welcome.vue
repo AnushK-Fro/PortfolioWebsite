@@ -67,7 +67,7 @@ import {Head} from "@inertiajs/vue3";
                         Laravel, PHP, Vue.js, TailwindCSS
                     </template>
                     <template #source>
-                        Currently in development; open source on GitHub
+                        Currently in development; <a class="font-thin text-blue-500 hover:text-blue-700" href="https://github.com/AnushK-Fro/PortfolioWebsite" target="_blank">open source</a> on GitHub
                     </template>
                 </ProjectCard>
 
@@ -85,7 +85,7 @@ import {Head} from "@inertiajs/vue3";
                         Laravel, PHP, Vue.js, TailwindCSS, Python
                     </template>
                     <template #source>
-                        Currently in production; open source on GitHub
+                        Currently in production; <a class="font-thin text-blue-500 hover:text-blue-700" href="https://github.com/AnushK-Fro/ArchiveVideoMirror" target="_blank">open source</a> on GitHub
                     </template>
                 </ProjectCard>
 
